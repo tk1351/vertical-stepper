@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import Stepper from './components/Stepper.vue'
+import BaseStepper from './components/BaseStepper.vue'
 </script>
 
 <template>
-  <Stepper />
+  <BaseStepper />
 </template>
 
 <style>
@@ -14,6 +14,6 @@ import Stepper from './components/Stepper.vue'
   font-family: Avenir, Helvetica, Arial, sans-serif;
   height: 100vh;
   width: 100vw;
-  background-color: #0A1929;
+  background-color: #0a1929;
 }
 </style>

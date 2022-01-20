@@ -1,5 +1,5 @@
 <template>
-  <div class="stepper"></div>
+  <div class="stepper" />
 </template>
 
 <style scoped>
